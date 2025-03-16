@@ -1,0 +1,5 @@
+{
+    "fq8bc1c2-8d45-11e9-bc42-526af7764f64": {"user_id": 1, "ad_delivery_pennies": 1000, "transaction_timestamp": 1500000000}, 
+    "ff8bc1c2-8d45-11e9-bc42-526af7764f64": {"user_id": 1, "overwrite": true, "redo_last":true, "transaction_timestamp": 1500000001}, "ff8bc2e4-8d45-11e9-bc42-526af7764f64 ": {"user_id": 1, "undo_last": true, "transaction_timestamp": 1500000002}, "ff8bc4ec-8d45-11e9-bc42-526af7764f64": {"user_id": 1, "payment_pennies": 500, "transaction_timestamp": 1500000003}, "fv24z4ec-8d45-11e9-bc42-526af7764f64": {"user_id": 1, "ad_delivery_pennies": 1000, "payment_pennies": 500, "transaction_timestamp": 1500000004},
+"fl24z4ec-8d45-11e9-bc42-526af7764f64": {"user_id": 1, "ad_delivery_pennies": 1000, "payment_pennies": 500, "transaction_timestamp": 1500000005}
+}
